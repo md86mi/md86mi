@@ -18,7 +18,7 @@
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,nodejs,express,mui,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,nodejs,express,mui,postgresql" />
 </p>
 
 ---
