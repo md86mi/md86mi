@@ -1,27 +1,29 @@
 <h1 align="center">Hi, I'm Mohammad Maleki 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;React+%7C+Tailwind+%7C+TypeScript;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;React+%7C+Tailwind+%7C+TypeScript;Node.js+%7C+Express+%7C+Prisma;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌍 I'm a passionate **frontend developer** based in Iran  
-- 🌱 Currently learning **React**, **TypeScript**, and **Framer Motion**
-- 🎯 My goal is to build **modern, useful and clean UI projects**
-- 💡 I enjoy learning and creating open-source projects
+- 🌍 I'm a passionate **Fullstack Web Developer** based in Iran  
+- 🌱 Currently working with **React, TypeScript, Tailwind, Node.js, Express, Prisma & PostgreSQL**  
+- 🎯 My goal is to create **modern, useful, and clean web applications**  
+- 💡 I enjoy learning, experimenting, and contributing to **open-source projects**  
 
 ---
 
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,nodejs,express,mui,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,nodejs,express,postgresql,prisma,supabase" />
 </p>
 
----
+- **Frontend:** React, Next.js, Tailwind CSS, MUI, TypeScript, Framer Motion  
+- **Backend:** Node.js, Express, Prisma, PostgreSQL, Supabase  
+- **Version Control & Tools:** Git, GitHub, VS Code, pnpm/npm  
 
 ## 📈 GitHub Stats
 
